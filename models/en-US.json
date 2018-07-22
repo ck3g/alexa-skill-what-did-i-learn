@@ -1,7 +1,7 @@
 {
   "interactionModel": {
     "languageModel": {
-      "invocationName": "greeter",
+      "invocationName": "my second skill",
       "types": [
 
       ],
@@ -25,14 +25,14 @@
           ]
         },
         {
-          "name": "HelloWorldIntent",
+          "name": "WhatDidILearnIntent",
           "slots": [
 
           ],
           "samples": [
-            "hello",
-            "say hello",
-            "say hello world"
+            "What did I learn",
+            "What have I learned",
+            "Did I learn something"
           ]
         }
       ]
